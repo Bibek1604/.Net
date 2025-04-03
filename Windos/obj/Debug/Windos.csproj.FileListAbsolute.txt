@@ -1,0 +1,5 @@
+C:\Users\bibek\source\repos\Windos\Windos\obj\Debug\Windos.csproj.AssemblyReference.cache
+C:\Users\bibek\source\repos\Windos\Windos\obj\Debug\Windos.Properties.Resources.resources
+C:\Users\bibek\source\repos\Windos\Windos\obj\Debug\WeAreCarsRentalSystem.SplashScreen.resources
+C:\Users\bibek\source\repos\Windos\Windos\obj\Debug\Windos.csproj.GenerateResource.cache
+C:\Users\bibek\source\repos\Windos\Windos\obj\Debug\Windos.csproj.CoreCompileInputs.cache
